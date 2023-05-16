@@ -10,6 +10,7 @@ export const EditorTabs = [
     icon: fileIcon,
   },
  
+ 
 ];
 
 export const FilterTabs = [
